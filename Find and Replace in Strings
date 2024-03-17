@@ -1,3 +1,5 @@
+//This C++ program allows users to input a string and specify a character to find within it. It then prompts for a replacement character and performs the substitution. Finally, it outputs the modified string.
+
 #include <iostream>
 using namespace std;
 
