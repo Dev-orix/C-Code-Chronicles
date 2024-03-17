@@ -1,3 +1,5 @@
+//This C++ program plays the role of a detective, determining whether a given number is a triangular number or not. By employing a systematic approach to calculate triangular numbers, it sheds light on the intriguing world of numerical patterns, providing clarity and insight into the properties of the input number.
+
 #include <iostream>
 using namespace std;
 
