@@ -1,3 +1,5 @@
+// This C++ program excels at dissecting input strings, extracting individual words, and presenting them one by one. Employing a systematic approach, it identifies word boundaries based on space characters and showcases each word on a separate line, offering enhanced readability and facilitating further text processing.
+
 #include <iostream>
 #include <cstring>
 using namespace std;
