@@ -1,3 +1,5 @@
+//This C++ program empowers users to input a string and designate a character for replacement. It efficiently carries out the substitution process and displays the modified string, providing a seamless tool for character replacement tasks.
+
 #include <iostream>
 #include <cstring>
 using namespace std;
