@@ -1,3 +1,5 @@
+//This C++ program efficiently transforms an input array by removing duplicate elements, thereby producing a new array comprised solely of unique elements. Offering a practical solution for data manipulation tasks, it ensures enhanced array integrity and reduced redundancy.
+
 #include <iostream>
 using namespace std;
 
