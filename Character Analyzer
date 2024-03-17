@@ -1,3 +1,5 @@
+//This C++ program illuminates the intricacies of a character array by analyzing its composition. By counting total characters, uppercase and lowercase letters, as well as spaces, it provides comprehensive insights into the structure of the input string, enhancing understanding and facilitating further processing.
+
 #include <iostream>
 using namespace std;
 int main() {
