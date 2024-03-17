@@ -1,3 +1,5 @@
+//This C++ program extracts individual words from a user-inputted string, revealing each word in its own line. It provides a handy tool for parsing and analyzing textual data, making it easier to process and understand large bodies of text.
+
 #include <iostream>
 #include <cstring>
 using namespace std;
