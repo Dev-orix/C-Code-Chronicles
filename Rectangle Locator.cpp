@@ -1,4 +1,4 @@
-//his C++ program efficiently locates whether a given point lies within a defined rectangle. By employing logical comparisons between the coordinates of the point and the vertices of the rectangle, it accurately determines the spatial relationship, aiding in geometric analysis and spatial reasoning tasks.
+// This C++ program efficiently locates whether a given point lies within a defined rectangle. By employing logical comparisons between the coordinates of the point and the vertices of the rectangle, it accurately determines the spatial relationship, aiding in geometric analysis and spatial reasoning tasks.
 
 #include <iostream>
 using namespace std;
