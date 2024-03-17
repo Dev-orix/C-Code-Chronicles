@@ -1,4 +1,4 @@
-//his C++ program dons the hat of a detective, discerning the relationship between two input strings. It systematically investigates whether the strings are palindromes, anagrams, or neither. By meticulously analyzing character sequences and employing logical comparisons, it provides insights into the textual connection between the two strings, enhancing understanding and facilitating further analysis.
+//This C++ program dons the hat of a detective, discerning the relationship between two input strings. It systematically investigates whether the strings are palindromes, anagrams, or neither. By meticulously analyzing character sequences and employing logical comparisons, it provides insights into the textual connection between the two strings, enhancing understanding and facilitating further analysis.
 
 #include <iostream>
 #include <cstring>
