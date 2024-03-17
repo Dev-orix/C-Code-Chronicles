@@ -1,3 +1,5 @@
+//This C++ program meticulously deduplicates an input array, ensuring that only unique elements remain. By systematically removing duplicates, it refines the array to maximize clarity and efficiency, facilitating streamlined data processing and analysis.
+
 #include <iostream>
 using namespace std;
 
