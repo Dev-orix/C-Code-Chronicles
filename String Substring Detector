@@ -1,3 +1,5 @@
+//This C++ program acts as a detective, determining whether string2 is a substring of string1. Utilizing a systematic approach to compare the two strings, it unveils the presence of string2 within string1, providing valuable insights into their textual relationship.
+
 #include <iostream>
 using namespace std;
 
