@@ -1,3 +1,5 @@
+//This C++ program offers a versatile tool for modifying strings by replacing specified characters. Users can input a string along with the character to find and the replacement character. The program efficiently performs the substitution, providing an enhanced version of the string as output.
+
 #include <iostream>
 #include <cstring>
 using namespace std;
