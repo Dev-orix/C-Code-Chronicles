@@ -1,3 +1,5 @@
+//This C++ program acts as an analyzer, determining whether a given number is an Armstrong number or not. Employing a systematic approach based on the Armstrong number definition, it calculates the sum of the digits raised to the power of the number of digits and compares it with the original number. By illuminating the presence of Armstrong numbers, it offers insights into the intriguing world of numerical properties.
+
 #include <iostream>
 #include <cmath>
 using namespace std;
