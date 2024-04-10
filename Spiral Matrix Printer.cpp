@@ -1,3 +1,5 @@
+//This C++ program efficiently prints a spiral matrix of size N x N, where N is a positive integer provided by the user. By utilizing a nested loop structure and careful manipulation of indices, it constructs the spiral matrix, filling it with sequential numbers in a clockwise manner. Offering a versatile tool for visualizing numerical patterns, it enhances understanding and exploration of spiral matrices.
+
 #include <iostream>
 #include <vector>
 using namespace std;
