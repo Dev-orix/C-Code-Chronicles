@@ -1,3 +1,5 @@
+//This C++ program efficiently counts the number of leap years between two given years. By leveraging a recursive approach and a leap year checking function, it navigates through the years, identifying and tallying the leap years within the specified range. Offering a streamlined solution for tracking exceptional moments in time, it enhances understanding and analysis of temporal patterns.
+
 #include <iostream>
 using namespace std;
 
