@@ -1,3 +1,5 @@
+//This C++ program analyzes a set of real numbers provided by the user, categorizing them into positive, negative, or zero. It ensures that the user inputs a positive integer N and then prompts for N real numbers. After gathering the data, it calculates and presents the ratio of positive, negative, and zero numbers within the set, offering valuable insights into the distribution of numeric values.
+
 #include <iostream>
 using namespace std;
 
