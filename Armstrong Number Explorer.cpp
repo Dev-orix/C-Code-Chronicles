@@ -1,3 +1,5 @@
+//This C++ program embarks on a journey to explore Armstrong numbers within a specified range. By systematically iterating through numbers and calculating their Armstrong number status, it unveils the presence of these numerical marvels between the provided lower and upper limits. Offering a fascinating glimpse into the realm of mathematical curiosities, it enriches the understanding of numeric properties.
+
 #include <iostream>
 #include <cmath>
 
