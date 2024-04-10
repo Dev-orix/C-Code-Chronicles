@@ -1,3 +1,5 @@
+//This C++ program efficiently determines whether a given set of three integer side lengths forms a Pythagorean triplet. It utilizes a function isPythagoreanTriplet to verify if the squares of the side lengths satisfy the Pythagorean theorem. The program prompts the user to input three integer side lengths and then evaluates whether they constitute a Pythagorean triplet. If the conditions are met, the program outputs "TRUE"; otherwise, it outputs "FALSE". The code is concise and provides a quick assessment of the Pythagorean nature of the input side lengths.
+
 #include <iostream>
 using namespace std;
 
