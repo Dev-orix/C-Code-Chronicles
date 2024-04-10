@@ -1,3 +1,5 @@
+//This C++ program constructs a staircase of a specified height. By utilizing nested loops, it meticulously builds each row of the staircase, adjusting the spacing and adding '#' symbols to create the ascending structure. With its dynamic approach, it offers a versatile tool for generating visually appealing staircases of varying heights.
+
 #include <iostream>
 using namespace std;
 
