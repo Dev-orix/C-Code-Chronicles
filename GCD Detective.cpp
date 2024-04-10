@@ -1,3 +1,5 @@
+//This C++ program efficiently computes the greatest common divisor (GCD) of two non-zero integers using Euclid's algorithm. By continuously applying Euclid's algorithm within a loop structure, it navigates through the integers, unraveling their common divisors. Offering a dynamic and user-friendly approach, it empowers users to explore and understand the foundational concept of GCD while providing accurate results for diverse integer inputs.
+
 #include <iostream>
 using namespace std;
 
