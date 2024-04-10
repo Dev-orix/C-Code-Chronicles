@@ -1,3 +1,5 @@
+//This C++ program navigates through a numeric spiral of size N, unfolding a path of sequential numbers. Employing a spiral traversal algorithm, it dynamically computes the positions of numbers within the spiral, ensuring a coherent and visually intriguing sequence. By enabling users to explore and visualize numeric spirals, it offers a versatile tool for mathematical exploration and pattern analysis.
+
 #include <iostream>
 using namespace std;
 
