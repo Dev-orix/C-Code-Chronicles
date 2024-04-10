@@ -1,3 +1,5 @@
+// This C++ program diligently calculates the factorial of a user-provided number within the range of 1 to 10. By employing a recursive approach, it navigates through the factorial computation process, unraveling the numeric complexity and delivering precise results. With its robust error handling, it ensures accurate factorial calculations while providing valuable insights into numerical operations.
+
 #include <iostream>
 using namespace std;
 
