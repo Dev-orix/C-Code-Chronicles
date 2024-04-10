@@ -1,3 +1,5 @@
+//This C++ program efficiently calculates the square root of a non-negative number with a specified limit on accuracy. Utilizing the renowned method of binary search within a limited range, it dynamically approaches the square root, ensuring the desired precision. Empowering users to explore numeric roots with precision, it offers a versatile tool for mathematical computations while delivering accurate results for diverse inputs.
+
 #include <iostream>
 using namespace std;
 
