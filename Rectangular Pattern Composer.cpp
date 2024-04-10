@@ -1,3 +1,5 @@
+//This C++ program crafts a rectangular pattern of numbers, where each row consists of N sequential numbers, incrementing from 1 to N^2. Through meticulous loop manipulation, it constructs a visually structured pattern that highlights the sequential arrangement of numbers within a rectangular grid. Empowering users to explore and create diverse numerical landscapes, it offers a versatile tool for pattern visualization and analysis.
+
 #include <iostream>
 using namespace std;
 
